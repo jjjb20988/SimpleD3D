@@ -1,4 +1,4 @@
-Keybinds:
+Keybinds: \n
 ARROW KEYS / RIGHT CLICK to rotate camera.
 WASD to move, E and Q to go up and down.
 T to teleport
