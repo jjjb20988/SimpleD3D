@@ -32,4 +32,4 @@ download > run > click flag > done\
 install sb3:\
 download > load into turbowarp (newest version) > enable all extentions WITH SANDBOX OFF > click flag > done\
 
-im sorry the formatting is bad idk how it works
+shoutout to git4rker for the formatting tips 
